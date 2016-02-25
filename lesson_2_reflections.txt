@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 Answer: git creates a hidden folder where a lot of metadata of the files in the original folder are. I need to do that in order to give Git some place to store the commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer: what ever is in the stating area will be committed. I'm not sure what is the added value.
