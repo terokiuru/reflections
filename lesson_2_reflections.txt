@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Answer: git creates a hidden folder where a lot of metadata of the files in the original folder are. I need to do that in order to give Git some place to store the commits.
