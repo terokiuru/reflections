@@ -9,3 +9,6 @@ Answer: I can compare staging area and most recent commit.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Answer: if I'm making a big change or experimental test on the code it makes sense to branch it our from the master branch.
+
+How do the diagrams help you visualize the branch structure?
+Answer: It's easier to see which commits can be reached and from where.
