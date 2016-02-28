@@ -15,3 +15,6 @@ Answer: It's easier to see which commits can be reached and from where.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Answer: the changes of both of the branches will be present. The additions and deletions. Using the diagram it is easier to find the parents of each commits and also the common parent of both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer: automatic merging is faster
