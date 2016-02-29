@@ -7,4 +7,5 @@ Answer: perhaps someone else is pushing something to GitHub repository that I do
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Answer: fork is a repo I clone in GitHub from another GitHub repo. Clone is a copy of any other repo. Branch is a new commit branching from its parent commit.
 
-
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Answer: if there is a conflict, I can try to resolve it instantly.
