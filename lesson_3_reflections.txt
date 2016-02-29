@@ -13,4 +13,5 @@ Answer: if there is a conflict, I can try to resolve it instantly.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Answer: hard to think what would be easier even complicated joint projects. Sending back and forth files is a pain.
 
-
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Answer: when I want master to stay operational while I'm trying something new in the other branch.
