@@ -9,3 +9,8 @@ Answer: fork is a repo I clone in GitHub from another GitHub repo. Clone is a co
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Answer: if there is a conflict, I can try to resolve it instantly.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Answer: hard to think what would be easier even complicated joint projects. Sending back and forth files is a pain.
+
+
